@@ -37,3 +37,5 @@ Na het updaten van de BIOS naar versie `7B24v1D` de laatste versie van 9 augustu
 # Extra info
 De Proxmox node heeft 2 ssd's in een Raid1 configuratie voor reliability.
 Deze node zit in het VLAN 21 en zou berijkbaar moeten zijn via `http://10.21.1.24:8006`.
+
+De Node heeft de hostnaam `sati`.
