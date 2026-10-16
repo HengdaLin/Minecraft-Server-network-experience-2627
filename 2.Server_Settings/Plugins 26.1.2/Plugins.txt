@@ -16,4 +16,4 @@ https://modrinth.com/plugin/bluemap
 https://modrinth.com/plugin/grimac
 https://modrinth.com/plugin/supervanish
 https://modrinth.com/plugin/chunky
-
+https://modrinth.com/plugin/tab-was-taken
