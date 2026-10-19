@@ -9,10 +9,8 @@ https://modrinth.com/plugin/coreprotect
 https://modrinth.com/plugin/worldguard
 https://modrinth.com/plugin/worldedit
 https://modrinth.com/plugin/griefprevention
-https://modrinth.com/plugin/drivebackupv2
 https://modrinth.com/plugin/vaultunlocked
 https://modrinth.com/plugin/plan
-https://modrinth.com/plugin/bluemap
 https://modrinth.com/plugin/grimac
 https://modrinth.com/plugin/supervanish
 https://modrinth.com/plugin/chunky
