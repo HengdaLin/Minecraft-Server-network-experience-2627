@@ -15,3 +15,5 @@ https://modrinth.com/plugin/grimac
 https://modrinth.com/plugin/supervanish
 https://modrinth.com/plugin/chunky
 https://modrinth.com/plugin/tab-was-taken
+https://modrinth.com/plugin/placeholderapi
+
