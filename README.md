@@ -8,22 +8,23 @@ Deze repository bevat de volledige documentatie van de opzet: van de hardware en
 
 ---
 
-## 📑 Inhoud
+## Inhoud
 
-- [Overzicht](#-overzicht)
-- [Architectuur](#-architectuur)
-- [Structuur van de repository](#-structuur-van-de-repository)
+- [Overzicht](#overzicht)
+- [Architectuur](#architectuur)
+- [Structuur van de repository](#structuur-van-de-repository)
 - [1. Installatie](#1-installatie)
 - [2. Server Settings](#2-server-settings)
 - [3. n8n Automatisering](#3-n8n-automatisering)
-- [Pluginoverzicht](#-pluginoverzicht)
-- [Ranks & permissies](#-ranks--permissies)
-- [Belangrijke aandachtspunten](#-belangrijke-aandachtspunten)
-- [Auteurs](#-auteurs)
+- [Pluginoverzicht](#pluginoverzicht)
+- [Ranks en permissies](#ranks-en-permissies)
+- [Belangrijke aandachtspunten](#belangrijke-aandachtspunten)
+- [Auteurs](#auteurs)
+- [Bronnen](#bronnen)
 
 ---
 
-## 🧭 Overzicht
+## Overzicht
 
 | Onderdeel | Details |
 |---|---|
@@ -38,7 +39,7 @@ Deze repository bevat de volledige documentatie van de opzet: van de hardware en
 
 ---
 
-## 🏗️ Architectuur
+## Architectuur
 
 ```text
 ┌──────────────────────────────────────────────┐
@@ -64,7 +65,7 @@ Deze repository bevat de volledige documentatie van de opzet: van de hardware en
 
 ---
 
-## 📂 Structuur van de repository
+## Structuur van de repository
 
 ```text
 .
@@ -162,7 +163,7 @@ Kicken, muten, warnen en bannen (op gebruikersnaam) kunnen uitgevoerd worden zon
 
 ---
 
-## 🔌 Pluginoverzicht
+## Pluginoverzicht
 
 Alle plugins zijn gedownload van Modrinth voor **Paper 26.1.2** (kanaal *Release*). De bronlinks staan in [`Plugins.txt`](<2.Server_Settings/Plugins 26.1.2/Plugins.txt>) en de `.jar`-bestanden in de map [`Plugins 26.1.2`](<2.Server_Settings/Plugins 26.1.2/26.1.2>).
 
@@ -189,7 +190,7 @@ Alle plugins zijn gedownload van Modrinth voor **Paper 26.1.2** (kanaal *Release
 
 ---
 
-## 🛡️ Ranks & permissies
+## Ranks en permissies
 
 De rechten zijn opgebouwd via **overerving** in LuckPerms. Elke rank erft alles van de rank eronder.
 
@@ -213,7 +214,7 @@ Het volledige overzicht staat in [2.LuckPerms_Instellen.md](2.Server_Settings/2.
 
 ---
 
-## ⚠️ Belangrijke aandachtspunten
+## Belangrijke aandachtspunten
 
 - **Gebruik nooit `/reload` of `/rl`.** Dit veroorzaakt geheugenlekken en kan plugins breken. Gebruik de plugin-specifieke reload (bv. `/tab reload`, `/ess reload`) of de **Restart**-knop in Pterodactyl.
 - **Pterodactyl installeren als `su`**, niet met `sudo`. Anders krijg je de fout `bash: /dev/fd/63: No such file or directory`.
@@ -224,14 +225,14 @@ Het volledige overzicht staat in [2.LuckPerms_Instellen.md](2.Server_Settings/2.
 
 ---
 
-## 👥 Auteurs
+## Auteurs
 
 - *Bram De Bevere*
 - *Hengda Lin*
 - *Kevin Bakeland*
 - *Miel Villyn*
 
-- *Jason De Smet* `n8n automation`
+- *Jason De Smet*  `n8n automation`
 
 **Opleiding:** Elektronica-ICT, VIVES Brugge
 **Vak:** Network Experience
@@ -239,11 +240,10 @@ Het volledige overzicht staat in [2.LuckPerms_Instellen.md](2.Server_Settings/2.
 
 ---
 
-## 📚 Bronnen
+## Bronnen
 
 - [Pterodactyl documentatie – Panel installeren (1.x)](https://docs.pterodactyl.io/v1/panel/getting-started)
 - [Pterodactyl documentatie – Wings installeren (1.x)](https://docs.pterodactyl.io/v1/wings/installing)
 - [Pterodactyl Installer](https://github.com/pterodactyl-installer/pterodactyl-installer)
 - [Modrinth](https://modrinth.com/)
 - [PaperMC](https://papermc.io/)
-
