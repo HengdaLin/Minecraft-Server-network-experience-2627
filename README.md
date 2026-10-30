@@ -230,7 +230,8 @@ Het volledige overzicht staat in [2.LuckPerms_Instellen.md](2.Server_Settings/2.
 - *Hengda Lin*
 - *Kevin Bakeland*
 - *Miel Villyn*
-- 
+
+- *Jason De Smet* `n8n automation`
 
 **Opleiding:** Elektronica-ICT, VIVES Brugge
 **Vak:** Network Experience
