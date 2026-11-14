@@ -85,9 +85,10 @@ Deze repository bevat de volledige documentatie van de opzet: van de hardware en
 │   ├── 4_5.Chunky.md
 │   ├── 4_6.PlaceholderAPI.md
 │   ├── 4_7.SuperVanish_TAB.md
-│   └── Plugins 26.1.2/
-│       ├── Plugins.txt       (Links van de plugins)
-│       └── 26.1.2/           (de .jar-bestanden van alle plugins)
+│   ├── Plugins 26.1.2/
+│   |   ├── Plugins.txt       (Links van de plugins)
+│   |   └── 26.1.2/           (de .jar-bestanden van alle plugins)
+|   └── 5.Datapacks.md
 ├── 3.n8n_Automation/
 │   ├── 1.n8n_Automation.md
 │   ├── 2.n8n_API_Key.md
