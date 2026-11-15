@@ -85,6 +85,8 @@ Deze repository bevat de volledige documentatie van de opzet: van de hardware en
 │   ├── 4_5.Chunky.md
 │   ├── 4_6.PlaceholderAPI.md
 │   ├── 4_7.SuperVanish_TAB.md
+│   ├── 4_8.GrimAC.md
+│   ├── 4_7.ViaVersion.md
 │   ├── Plugins 26.1.2/
 │   |   ├── Plugins.txt       (Links van de plugins)
 │   |   └── 26.1.2/           (de .jar-bestanden van alle plugins)
